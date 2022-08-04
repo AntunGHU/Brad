@@ -6,3 +6,4 @@
 # Brzi pregled dugog videa:
 # Kreirao mapu "zoo" u kojoj ce biti sve
 # kreirao home, animals i prices html fajlove i ometen drugim stvarima prekinuo i idem na analiyu gotovih fajlova da vidim jesam li sto zaboravio
+# Neejer
