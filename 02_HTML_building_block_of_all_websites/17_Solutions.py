@@ -10,3 +10,8 @@
 # Idem dalje  porediti Bradova rjesenja sa svojim
 # Prvo u Brad-a ima html-komentar kojeg jos nisam naucio a to je "<!-- .... -->
 # tagove ul, li, a sam dobro rjesio s jedinom razlikom sto nisam vidio smisla linkati stranicu na samu sebe a Brad je! Dalje otkrivam da on nije do kraja rjesio u skladu sa introom. Prekidam poredjenja!
+# Idem lagano pogledat video i istaknuti bitne momente
+# Prvo sam pogledao skrivene date unutar mape zoo i otkrio da je mapa projekt unutar projekta (ima .git bez gitignore) te da je zato git odbijao posebno pratiti vec pracenu mapu. Brisanjem .git-mape iz mape zoo git od projekta brad preuzima!!! NOVO!!!
+# Dalje pratim video: Brad downloada jos slika i stavlja ih u mapu /zoo/images/
+# Kad god pravimo promjene odmah snimajmo!
+# Linkovi na stranice koje su unutar mape zoo prave se navodjenjem imena html stranice, bez slashova itd. Kad bi stranice bile u mapama onda vjerovatno bi islo sa slashovima ali nikad neznas. Nisam ni __init__ ocekivao u mapama py-a!
