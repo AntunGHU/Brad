@@ -4,4 +4,4 @@
 # Imamo table!
 # na kraju provjerava radi li linkanje i radi!
 # congratulation!
-# jako je bitno puno vjezbati i steci pouzadanje!
+# jako je bitno puno vjezbati i steci pouzdanje!
