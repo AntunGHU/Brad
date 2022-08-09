@@ -2,4 +2,4 @@
 
 # govori o konzolama u browserima: Inspect, Elements, Console itd
 
-# Za html interseantna je kartica Elements. Malo demonstrira na ecoasia
+# * Za html interseantna je kartica Elements.

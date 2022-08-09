@@ -1,6 +1,6 @@
 # 8'15
 
-# Fome za razne obrasce na inet-u za dobijanje podataka
+# Forme za razne obrasce na inet-u za dobijanje podataka
 # prilicno su slozeni tagovi sa dosta polja - otud i duljina videa!
 # za naglasiti da je moderna emet forma puno siromasnija od Bradove te da ima samo "action" u sklopu  1.podtaga, dok bradova ima i "class" te "method" te naravno gomilu sadrzaja izmedju podtagova
 # "action" upucuje na koju stranicu treba otici nakon klika na "submit"
