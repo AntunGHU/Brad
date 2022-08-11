@@ -8,4 +8,4 @@
 
 # <meta charset="UTF-8"> standardni set : The meta element represents various kinds of metadata that cannot be expressed using the title, base, link, style, and script elements.
 
-# The title element represents the document's title or tab-name.
+# Title element represents document's title or tab-name.

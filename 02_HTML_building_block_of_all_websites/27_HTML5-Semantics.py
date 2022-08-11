@@ -7,7 +7,7 @@
 # takodjer pokazuje sad i footer unutar koga smjesta p-tag
 # dakle sustina ovih je u pomoci browserima da ih smjeste gdje treba
 # idem onda provjeriti aside-tag i... nista nije sa strane kako bi pomislio na prvi pogled!!
-# Joh preporuca da ih se koristi al kako kad im ne vidis ucinka - trebalo bi citati!
+# Ath preporuca da ih se koristi al kako kad im ne vidis ucinka - trebalo bi citati!
 
 # Npr o aside tagu:
 # Definition and Usage
