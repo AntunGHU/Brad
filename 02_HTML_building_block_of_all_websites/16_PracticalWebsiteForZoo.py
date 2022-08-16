@@ -1,7 +1,6 @@
 # 3'57
 
 # Najava izrade stranice ciju sliku sam screenao!
-# Pocinje hvalom, i nastavlja tako...
 
 # Zahtjeva da website ima 3 stranice: Home=JohnsZoo, Animals, Prices + link na vise!
 

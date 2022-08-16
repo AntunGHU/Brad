@@ -2,7 +2,7 @@
 
 # prica pocinje sa otvorenom stranicom https://filezilla-project.org
 
-# John nam zeli objasniti kako dobiti svoj site
+# kako dobiti svoj site
 # prvo moramo nabaviti svoj url (placanje posebno) a potom naci hosting-server (takodjer placanje!)
 # kad smo oboje sredili i platili treba prebaciti nase fajlove na host-server. To cemo raditi uspomoc FileZila (free FTP solution). Kad to napravimo imamo web-site!!!
 
