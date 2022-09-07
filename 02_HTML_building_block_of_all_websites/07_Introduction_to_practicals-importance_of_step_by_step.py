@@ -5,7 +5,7 @@
 # Potom preci na realizaciju kroz predlozene tocke:
 # ...create html-fajl
 # ...setup html head and body
-# ...test: basic paragraph
+# ...tekst: basic paragraph
 # ...Add header and subheader (hx)
 # ...add in paragraph
 # ...add in formatting (b and i itd)

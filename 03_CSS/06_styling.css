@@ -3,8 +3,8 @@ body {
 }
 
 p {
-  color: yellow;
-  background-color: blue;
+  color: rgb(17, 0, 255);
+  background-color: rgb(208, 255, 0);
 }
 
 ol {

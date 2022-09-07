@@ -7,7 +7,7 @@
 # Kreiranje osnovnih stranica portofolia pocinjuci sa home ali kojeg ovaj puta naziva (sukladno best practices) "index.html"
 # Nastavlja s kreiranjem (unutar portofolio mape) stranice "work.html". Nakon kreiranja odmah u Atomu editira body (kao sto je i index) sa paragrafom u body-u koji kaze "ovo je work page"
 # kreira (unutar portofolio mape) "about.html" i sa <p> editira "Ovo je about page"
-# konacno kreira "contact.html" i editira je jednako!
+# konacno kreira "contact.html" i editira "Ovo je contact page"
 
 # kreiranje liste navigacijskog bara sa <ul> u svakoj stranici i <li><a> redovima unutar kojih href="***.html" sa istim tekstom izmedju! Potom isprobavanje da linkovi rade (zato onaj kratki p-tekst)
 

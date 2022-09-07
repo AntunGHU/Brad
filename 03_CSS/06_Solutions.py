@@ -6,4 +6,4 @@
 
 # za kraj zeli resizati image i zajedno trazimo uputu na web-u: stackoverflow daje odgovor: width:50px, odlazim na copy i nalazim rjesenje width:10%
 
-# style ta table radi na table, th i td a na tr nema efekta
+# style table-a radi na table, th i td a na tr nema efekta

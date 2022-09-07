@@ -6,6 +6,6 @@
 
 # sadrzaj pokraj html: lang i dir="ltr" (sto vise nije dio emet-abr); nije obavezno ali pomaze browserima.
 
-# <meta charset="UTF-8"> standardni set : The meta element represents various kinds of metadata that cannot be expressed using the title, base, link, style, and script elements.
+# <meta charset="UTF-8"> standardni set : The meta-element represents various kinds of metadata that cannot be expressed using the title, base, link, style, and script elements.
 
-# Title element represents document's title or tab-name.
+# Title-element represents document's title or tab-name.

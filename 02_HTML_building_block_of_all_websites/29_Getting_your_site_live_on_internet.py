@@ -9,5 +9,5 @@
 # url Ath sredjuje preko IONOS-a https://www.ionos.com koji radi jos! Ali on ih ne preporucuje kao obavezan 1. izbor. Daje pojam za pretragu "hosting packages domains" koji nam vraca gomilu!!! pa biraj!
 # kad smo sredili te dvije opcije klikamo na hosting ili FTP sto nam daje mogucnost "Manage FTP accounts" gdje upravljamo userima!
 # kad smo kreirali usera idemo na filezila i dld-amo client ili server i instalamo.
-# kad proradi trebamo unijeti sa hosting-podatci na FTP account na IONOS - hosting -accounts page na FileZila app! (url-serverhost, port, protocol,  username, password itd)
+# kad proradi trebamo unijeti sa hosting-podaci na FTP account na IONOS - hosting -accounts page na FileZila app! (url-serverhost, port, protocol,  username, password itd)
 # jos jednom istice da je vrlo vazno home-page nazvati index.html
