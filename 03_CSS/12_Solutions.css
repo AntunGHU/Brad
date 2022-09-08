@@ -1,0 +1,29 @@
+body {
+    background-color: aqua;
+    font-family: Helvetica;
+
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+table,
+th,
+td {
+    border: 2px solid rgb(255, 192, 255);
+}
+
+a {
+    border: 1px solid rgb(192, 209, 255);
+    background-color: beige;
+}
+
+img {
+    width: 100px;
+}
+
+form {
+    background-color: beige;
+}
