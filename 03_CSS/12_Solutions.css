@@ -27,3 +27,11 @@ img {
 form {
     background-color: beige;
 }
+
+.smImage {
+    width: 40px;
+}
+
+#tutorialImage {
+    border: 4px solid rgb(55, 209, 55);
+}
