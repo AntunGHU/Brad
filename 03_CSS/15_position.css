@@ -31,3 +31,10 @@
   width: 400px;
   top: 200px;
 }
+
+.posAbsolute2 {
+  position: absolute;
+  width: 90px;
+  left: 550px;
+  border: 2px solid #00ff55;
+}

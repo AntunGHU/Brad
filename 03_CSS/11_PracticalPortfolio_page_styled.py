@@ -1,3 +1,3 @@
 # 1'44
 
-# Slicice otprilike iste velicine,
+# Slicice otprilike iste velicine

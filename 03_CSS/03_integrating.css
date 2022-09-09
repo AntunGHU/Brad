@@ -1,3 +1,7 @@
+body {
+  background-color: aquamarine;
+}
+
 p {
   background-color: pink;
   border: 2px solid blue;

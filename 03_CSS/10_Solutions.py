@@ -4,4 +4,4 @@
 
 # kreiramo html i css fajlove i popunjavam tekst i link u html
 
-# kod linka na email adresu isto pisemo na vidljivi tekst kao i na href""
+# kod linka na email adresu isto pisemo na vidljivi tekst kao i na href=""
