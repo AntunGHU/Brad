@@ -1,0 +1,26 @@
+.plava {
+    background-color: blue;
+    height: 20px;
+    width: 400px;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+.pinki {
+    background-color: #ff00d4;
+    height: 200px;
+    width: 400px;
+    position: relative;
+    left: 300px;
+    top: 150px;
+}
+
+.zelena {
+    background-color: hwb(128 3% 57%);
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 200px;
+}

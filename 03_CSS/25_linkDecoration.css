@@ -1,0 +1,22 @@
+a:visited {
+  color: aqua;
+  background-color: azure;
+}
+
+a:active {
+  color: blue;
+}
+
+a:link {
+  background-color: yellow;
+  text-decoration: none;
+  padding: 30px;
+  position: relative;
+  left: 40px;
+  top: 40px;
+}
+
+a:hover {
+  background-color: green;
+  text-decoration: underline;
+}
