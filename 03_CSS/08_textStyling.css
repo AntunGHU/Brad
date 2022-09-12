@@ -16,5 +16,5 @@ p {
   text-transform: lowercase;
   line-height: 30px;
   text-indent: 30px;
-  word-spacing: 30px;
+  word-spacing: normal
 }

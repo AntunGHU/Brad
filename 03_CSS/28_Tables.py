@@ -5,16 +5,16 @@
 # ?   border: 2px solid black;
 # ?   border-collapse: collapse; # parametar za eliminaciju duplih granica
 # ? }
-# ?
+
 # ? th {
 # ?   padding: 20px;
 # ?   background-color: white;
 # ? }
-# ?
+
 # ? tr {
 # ?   background-color: #D7F7FA;
 # ? }
-# ?
+
 # ? tr:hover {
 # ?   background-color: #C7C7C7;
 # ? }

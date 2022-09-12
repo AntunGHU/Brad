@@ -11,7 +11,7 @@
 # ? img:hover {
 # ?   filter: grayscale(0%);
 # ? }
-# koji staticno primjenjuju filte:grayscale sa 100% a kod hover-anja 0%. Jos jedan element sa hoveranjem! Ovog puta img!!!
+# koji staticno primjenjuju filter: grayscale sa 100% a kod hover-anja 0%. Jos jedan element sa hoveranjem! Ovog puta img!!!
 
 # I zaista novo i kao priprema za bootstrap je element vjesnik css-jezika tj bootstrapa:
 # ? .paintings:hover .titles {

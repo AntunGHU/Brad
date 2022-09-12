@@ -5,4 +5,4 @@
 # positioning u css za premjestanje!
 
 # Medjutim, koliko god se trudio, ja nisam uspio dobiti kockicu!?!?!
-# I kad sam mislio odustati nasao sam gresku: zeznuo sam desni dio title-taga! sa <</title> jednim< viska!
+# I kad sam mislio odustati nasao sam gresku: zeznuo sam desni dio title-taga! sa <</title> jednim < viska!

@@ -22,7 +22,7 @@ h1 {
 }
 
 #description {
-  background-color: blue;
+  background-color: rgb(255, 187, 0);
   position: relative;
   left: 25px;
   height: 200px;
