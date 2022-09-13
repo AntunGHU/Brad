@@ -19,4 +19,4 @@
 
 # * dohvacanje slike iz mape koja je na istom levelu kao i portofolio!!! src="../zoo/slika.jpg". Potom to sa img mece izmedju <a> kojem pise isti path!
 
-# Contact stranica ima dosta novih tag-ova: text-input i drop-down. Poceo naravno sa <form> pa input, textarea itd.
+# Contact stranica ima dosta novih tag-ova: text-input i #? drop-down. Poceo naravno sa <form> pa input, textarea itd.

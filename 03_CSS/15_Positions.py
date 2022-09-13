@@ -1,6 +1,6 @@
 # 12'28
 
-# Tocka prelaska od Beginera ka Intermediate znalca CSS-a i spoznaji koliko CSS moze biti zabavan!
+# Tocka prelaska od Beginera ka Intermediate i spoznaji koliko CSS moze biti zabavan!
 
 # Govorit cemo o pozicioniranju elemenata na stranici!
 
