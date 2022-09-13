@@ -2,7 +2,7 @@
 
 # Kreiramo index.html u rootu.
 
-# body tag je mjesto gdje ide nas tekst, slike i sve sve! Pisemo tekst koji iako smo razvukli i napravili par entera ali on nije isto imao na stranici.
+# body tag je mjesto gdje ide nas tekst, slike i sve sve! Pisemo tekst koji, iako smo razvukli i napravili par entera, nije isto imao na stranici.
 
 # sadrzaj pokraj html: lang i dir="ltr" (sto vise nije dio emet-abr); nije obavezno ali pomaze browserima.
 

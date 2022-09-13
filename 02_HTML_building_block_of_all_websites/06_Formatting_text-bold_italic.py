@@ -1,7 +1,7 @@
 # 6'20
 
 # kako boldati i italicati - tako da se stave tagovi <b> i <i>. Ako hocemo nesto kao precrtano onda tag <del>.
-# Boldanje itd se ne moze vrsiti u titlu - ostaju samo format-znaci.
+# Boldanje itd se ne moze vrsiti u titlu (ostaju samo format-znaci).
 # Brad iznosi stranicu na kojoj ako hocemo mozemo ostale format-tagove nauciti: https://www.w3schools.com - fantastic resurs
 # HTML Text Formatting Elements
 # ? Tag	        Description
