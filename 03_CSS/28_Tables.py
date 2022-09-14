@@ -3,7 +3,7 @@
 # Stiliziranje tablica: tagovi u css: table, th, td, tr
 # ? table, th, td {
 # ?   border: 2px solid black;
-# ?   border-collapse: collapse; # parametar za eliminaciju duplih granica
+# ?   border-collapse: collapse;                                # parametar za eliminaciju duplih granica
 # ? }
 
 # ? th {

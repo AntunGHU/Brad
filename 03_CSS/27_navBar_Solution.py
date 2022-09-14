@@ -2,13 +2,8 @@
 
 # Prvo Ath trazi kako dobiti <ul> bez tocki i nalazi da stavivsi u css "ul {list-style-type: none;}"!
 # Potom trazi rjesenje preustroja iz jednog ispod drugog u jedan kraj drugog. To dobija sa "li {float: left;}"
-# Ukidanje text-decoration na svakom linku, + padding + color + disply sa
-# ? a {
-# ?   text-decoration: none;
-# ?   padding: 13px;
-# ?   color: white;
-# ?   display: block;
-# ? }
+# Ukidanje text-decoration na svakom linku, + padding + color + disply sa "text-decoration: none;"
+# "display: block;" igra ulogu u prosirenju menia, bez njega je tanka linija! jer se padding ispod ne desava!
 # Sve skupa css:
 # ? ul {
 # ?   list-style-type: none;
