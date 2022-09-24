@@ -1,6 +1,10 @@
+p {
+  float: left;
+}
+
 img {
   width: 30%;
-  float: right
+  float: right;
 }
 
 .leftImg {
