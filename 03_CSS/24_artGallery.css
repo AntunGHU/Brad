@@ -44,7 +44,9 @@ h1 {
 }
 
 #descriptionText {
-  padding-top: 60px;
+  padding: 60px;
+  color: blue;
+  text-decoration: dashed;
 }
 
 img {
