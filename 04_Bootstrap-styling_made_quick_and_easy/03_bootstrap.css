@@ -1,7 +1,7 @@
-.btn-dark {
-  color:blue;
+.btn-warning {
+  color: blue;
 }
 
-.btn-dark:hover {
-  color:red;
+.btn-warning:hover {
+  color: red;
 }

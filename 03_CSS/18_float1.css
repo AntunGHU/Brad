@@ -1,10 +1,10 @@
 p {
-  float: left;
+  background-color: aqua;
 }
 
 img {
   width: 30%;
-  float: right;
+  float: left;
 }
 
 .leftImg {

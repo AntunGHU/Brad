@@ -8,4 +8,3 @@
 
 # Na 3.coj stranici koristimo tablice. slika
 
-# Rezime uvoda: trazi linkanje stranica a da to nije dao!

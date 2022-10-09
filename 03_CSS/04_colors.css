@@ -10,12 +10,12 @@ h1 {
 ol {
   color: rgb(0, 255, 170);
   background-color: pink;
-  border: 6px solid green;
+  border: 16px solid green;
 }
 
 img {
   border: 6px solid pink;
-  width: 10%;
+  width: 25%;
 }
 
 body {
